@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khôi Bôi Trơn
+- 👋 Hi, I’m KhoiVipPro
 - 👀 I’m interested in Python language and Web Design (also game)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on https://discord.gg/DY24yyu8mv
